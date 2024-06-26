@@ -10,4 +10,4 @@ Meu nome é Henrique de Sousa
 
 alurastartestudante@email.com
 
-https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3UzbGk3ejZzaXdlMGNuNmN1NjEyOWU4cXBpY2R1cHl1N3NvYzB4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UQ9SksH9TqXo4/giphy.gif
+![anigif](https://github.com/000110700284/estudante-3B-alura/assets/173904526/549ab2e5-2395-4411-89bb-e24fb56cbd76)
